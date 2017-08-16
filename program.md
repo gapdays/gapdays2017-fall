@@ -37,14 +37,18 @@ title: Program
 
   - 12:00 - 13:00: *Lunch (in-house Mensa)*
   
+  - 13:45:         _Group photo_ (we will meet in room D-201 and move from there)
+  
   - 14:00 - 15:00:
                    N.N. <br>
                    *ArangoDB*
   - 15:00 - 15:30: *Tee, coffee, and cake*
   - 15:30 - 16:30:
-                    Lukas Kühne <br>
+                   Lukas Kühne <br>
                    *Generating matroids using HPC-GAP and ArangoDB*
 
+  - 19:00:         Workshop dinner at [Trattoria Gianni & Giulia](http://trattoria-gianni-giulia.de/).
+		   
 - Friday:
   - 10:00 - 11:00:
                    Chris Jefferson <br>
