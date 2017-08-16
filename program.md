@@ -68,8 +68,22 @@ The focus of the workshop will be on presenting research and development related
 -->
 
 ## Code sprint
-* Start: Monday September 4th at 10 am
+* Start: Monday September 4th at 10:00 am
 * Finish: Friday September 8th afternoon
+
+All days:
+  - 10:00 Begin
+  
+  - 12:00 - 13:00: *Lunch (in-house Mensa)*
+  
+  - 15:00 - 15:30: *Tee, coffee, and cake*
+
+  - 17:00 - 18:00 Status report
+
+- Thursday:
+  - 13:45:         __Group photo__ (we will meet in room D-201 and move from there)
+  
+  - 19:00:         Code sprint dinner at [Trattoria Gianni & Giulia](http://trattoria-gianni-giulia.de/?page_id=35).
 
 The primary focus of the code sprint will be on the following topics:
 
