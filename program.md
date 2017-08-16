@@ -80,7 +80,7 @@ The focus of the workshop will be on presenting research and development related
 
   - 17:00 - 18:00 Status report
 
-- Thursday:
+- Wednesday:
   - 13:45:         __Group photo__ (we will meet in room D-201 and move from there)
   
   - 19:00:         Code sprint dinner at [Trattoria Gianni & Giulia](http://trattoria-gianni-giulia.de/?page_id=35).
