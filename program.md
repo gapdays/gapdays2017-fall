@@ -21,7 +21,7 @@ title: Program
   
   - 14:00 - 15:00:
                    Markus Pfeiffer <br>
-                   *Proving finitely presented groups to be hyperbolic in polynomial time*
+                   [*Proving finitely presented groups to be hyperbolic in polynomial time*](/gapdays2017-fall/abstracts/FP)
   - 15:00 - 15:30: *Tee, coffee, and cake*
   - 15:30 - 16:30:
                    Chris Jefferson <br>
@@ -33,7 +33,7 @@ title: Program
                    [*Constructive Category Theory and Applications to Algebraic Geometry*](/gapdays2017-fall/abstracts/CAP)
   - 11:00 - 12:00:
                     Markus Pfeiffer <br>
-                   *Update on all things Jupyter, LibGAP, Racket-GAP*
+                   [*Update on all things Jupyter, LibGAP, Racket-GAP*](/gapdays2017-fall/abstracts/Jupyter)
 
   - 12:00 - 13:00: *Lunch (in-house Mensa)*
   
