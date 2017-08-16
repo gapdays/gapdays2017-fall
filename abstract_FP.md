@@ -1,10 +1,11 @@
 ---
-layout: page
-title: Proving finitely presented groups to be hyperbolic in polynomial time
+layout: default
 permalink: /abstracts/FP
 ---
 
-### Markus Pfeiffer
+## Markus Pfeiffer
+
+### Proving finitely presented groups to be hyperbolic in polynomial time
 
 ... is of course impossible: It is undecidable whether a finitely presented
 group is hyperbolic. "So, why bother?", you might think. One response is

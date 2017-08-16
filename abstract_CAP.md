@@ -1,10 +1,11 @@
 ---
-layout: page
-title: Constructive Category Theory and Applications to Algebraic Geometry
+layout: default
 permalink: /abstracts/CAP
 ---
 
-### Sebastian Gutsche
+## Sebastian Gutsche
+
+### Constructive Category Theory and Applications to Algebraic Geometry
 
 Many structures in abstract algebra and computer algebra can be
 organized as categories and many algorithms boil down to basic

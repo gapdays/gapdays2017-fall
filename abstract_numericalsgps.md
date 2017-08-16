@@ -1,10 +1,11 @@
 ---
-layout: page
-title: The GAP package numericalsgps
+layout: default
 permalink: /abstracts/numericalsgps
 ---
 
-### Pedro A. García-Sánchez and Manuel Delgado
+## Pedro A. García-Sánchez and Manuel Delgado
+
+### The GAP package numericalsgps
 
 We will talk about the features added to the numericalsgps GAP package
 since the last GAP days in Aachen. Also we will depict some candidate

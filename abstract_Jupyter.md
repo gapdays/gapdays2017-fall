@@ -1,10 +1,11 @@
 ---
-layout: page
-title: Update on all things Jupyter, LibGAP, Racket-GAP
+layout: default
 permalink: /abstracts/Jupyter
 ---
 
-### Markus Pfeiffer
+## Markus Pfeiffer
+
+### Update on all things Jupyter, LibGAP, Racket-GAP
 
 I will give an overview of my ongoing work and future plans for
 the GAP Jupyter kernel, my efforts to make it possible to use GAP as a
