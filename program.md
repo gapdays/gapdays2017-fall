@@ -71,7 +71,7 @@ The focus of the workshop will be on presenting research and development related
 * Start: Monday September 4th at 10:00 am
 * Finish: Friday September 8th afternoon
 
-All days:
+- All days:
   - 10:00 Begin
   
   - 12:00 - 13:00: *Lunch (in-house Mensa)*
