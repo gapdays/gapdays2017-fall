@@ -37,7 +37,7 @@ title: Program
 
   - 12:00 - 13:00: *Lunch (in-house Mensa)*
   
-  - 13:45:         _Group photo_ (we will meet in room D-201 and move from there)
+  - 13:45:         __Group photo__ (we will meet in room D-201 and move from there)
   
   - 14:00 - 15:00:
                    N.N. <br>
@@ -47,7 +47,7 @@ title: Program
                    Lukas Kühne <br>
                    *Generating matroids using HPC-GAP and ArangoDB*
 
-  - 19:00:         Workshop dinner at [Trattoria Gianni & Giulia](http://trattoria-gianni-giulia.de/).
+  - 19:00:         Workshop dinner at [Trattoria Gianni & Giulia](http://trattoria-gianni-giulia.de/?page_id=35).
 		   
 - Friday:
   - 10:00 - 11:00:
