@@ -20,8 +20,8 @@ title: Program
   - 12:00 - 13:00: *Lunch (in-house Mensa)*
   
   - 14:00 - 15:00:
-                   Markus Pfeiffer <br>
-                   [*Proving finitely presented groups to be hyperbolic in polynomial time*](/gapdays2017-fall/abstracts/FP)
+                   Max Horn <br>
+                   *MatrixObj-Projekt*
   - 15:00 - 15:30: *Tea, coffee, and cake*
   - 15:30 - 16:30:
                    Chris Jefferson <br>
@@ -54,8 +54,8 @@ title: Program
                    Chris Jefferson <br>
                    *Hooking the interpreter in GAP - profiling and debugging*
   - 11:00 - 12:00:
-                   Max Horn <br>
-                   *MatrixObj-Projekt*
+                   Markus Pfeiffer <br>
+                   [*Proving finitely presented groups to be hyperbolic in polynomial time*](/gapdays2017-fall/abstracts/FP)
 
   - 12:00 - 13:00: *Lunch (in-house Mensa)*
   
