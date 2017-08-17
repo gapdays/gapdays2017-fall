@@ -22,7 +22,7 @@ title: Program
   - 14:00 - 15:00:
                    Markus Pfeiffer <br>
                    [*Proving finitely presented groups to be hyperbolic in polynomial time*](/gapdays2017-fall/abstracts/FP)
-  - 15:00 - 15:30: *Tee, coffee, and cake*
+  - 15:00 - 15:30: *Tea, coffee, and cake*
   - 15:30 - 16:30:
                    Chris Jefferson <br>
                    *Towards a unified framework for search in permutation group*
@@ -42,7 +42,7 @@ title: Program
   - 14:00 - 15:00:
                    N.N. <br>
                    *ArangoDB*
-  - 15:00 - 15:30: *Tee, coffee, and cake*
+  - 15:00 - 15:30: *Tea, coffee, and cake*
   - 15:30 - 16:30:
                    Lukas Kühne <br>
                    *Generating matroids using HPC-GAP and ArangoDB*
