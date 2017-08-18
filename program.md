@@ -40,8 +40,8 @@ title: Program
   - 13:45:         __Group photo__ (we will meet in room D-201 and move from there)
   
   - 14:00 - 15:00:
-                   N.N. <br>
-                   *ArangoDB*
+                   Max Neunhöffer <br>
+                   [*ArangoDB*](/gapdays2017-fall/abstracts/ArangoDB)
   - 15:00 - 15:30: *Tea, coffee, and cake*
   - 15:30 - 16:30:
                    Lukas Kühne <br>
