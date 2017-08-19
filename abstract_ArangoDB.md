@@ -7,12 +7,13 @@ permalink: /abstracts/ArangoDB
 
 ### ArangoDB
 
-The talk will address the following points:
-* why ArangoDB? (what can ArangoDB offer which other SQL-databases cannot)
-* the basic notions: collections, statements, cursors, arrays, iterators, documents, ..
-* arangosh and the web interface
-* parallel aspects
-* usual pitfalls (especially when coming from the SQL-world)
-* tricks to increase performance
-* other APIs
-* extra capabilities of the enterprise version
+In this talk I will give an overview of ArangoDB, a native multi-model
+distributed database. I will explain what this means and in which way
+ArangoDB stands out among the many other databases on the market. I
+will in particular cover similarities and differences to classical
+SQL-based relational data stores.
+
+In the second part I will show a live demo and thereby explain about
+documents, collections, AQL queries, the ArangoDB shell, the web UI
+and basic usage. I will also say a few words about deployment (single
+server/cluster, laptop/cloud, binary packages/Docker, etc.).
