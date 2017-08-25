@@ -15,7 +15,7 @@ title: Program
            [*The GAP package* numericalsgps](/gapdays2017-fall/abstracts/numericalsgps)
   - 11:00:
             Markus Baumeister <br>
-           [*Simplicial surfaces in GAP*](/gapdays2017-fall/SimplicialSurfaces.pdf)
+           [*Simplicial surfaces in GAP*](/gapdays2017-fall/abstracts/SimplicialSurfaces.pdf)
 
   - 12:00: *Lunch (in-house Mensa)*
   
