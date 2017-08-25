@@ -9,59 +9,59 @@ title: Program
 * Finish: Friday September 1st afternoon
 
 - Wednesday:
-  - 10:00 - 10:15: *Opening*
-  - 10:15 - 11:00:
-                   Pedro A. García-Sánchez and Manuel Delgado <br>
-                   [*The GAP package* numericalsgps](/gapdays2017-fall/abstracts/numericalsgps)
-  - 11:00 - 12:00:
-                    Markus Baumeister <br>
-                   [*Simplicial surfaces in GAP*](/gapdays2017-fall/SimplicialSurfaces.pdf)
+  - 10:00: *Opening*
+  - 10:15:
+           Pedro A. García-Sánchez and Manuel Delgado <br>
+           [*The GAP package* numericalsgps](/gapdays2017-fall/abstracts/numericalsgps)
+  - 11:00:
+            Markus Baumeister <br>
+           [*Simplicial surfaces in GAP*](/gapdays2017-fall/SimplicialSurfaces.pdf)
 
-  - 12:00 - 13:00: *Lunch (in-house Mensa)*
+  - 12:00: *Lunch (in-house Mensa)*
   
-  - 14:00 - 15:00:
-                   Max Horn <br>
-                   *MatrixObj-Projekt*
-  - 15:00 - 15:30: *Tea, coffee, and cake*
-  - 15:30 - 16:30:
-                   Chris Jefferson <br>
-                   *Towards a unified framework for search in permutation group*
+  - 14:00:
+           Max Horn <br>
+           *MatrixObj-Projekt*
+  - 15:00: *Tea, coffee, and cake*
+  - 15:30:
+           Chris Jefferson <br>
+           *Towards a unified framework for search in permutation group*
 
 - Thursday:
-  - 10:00 - 11:00:
-                   Sebastian Gutsche <br>
-                   [*Constructive Category Theory and Applications to Algebraic Geometry*](/gapdays2017-fall/abstracts/CAP)
-  - 11:00 - 12:00:
-                    Markus Pfeiffer <br>
-                   [*Update on all things Jupyter, LibGAP, Racket-GAP*](/gapdays2017-fall/abstracts/Jupyter)
+  - 10:00:
+           Sebastian Gutsche <br>
+           [*Constructive Category Theory and Applications to Algebraic Geometry*](/gapdays2017-fall/abstracts/CAP)
+  - 11:00:
+            Markus Pfeiffer <br>
+           [*Update on all things Jupyter, LibGAP, Racket-GAP*](/gapdays2017-fall/abstracts/Jupyter)
 
-  - 12:00 - 13:00: *Lunch (in-house Mensa)*
+  - 12:00: *Lunch (in-house Mensa)*
   
-  - 13:45:         __Group photo__ (we will meet in room D-201 and move from there)
+  - 13:45:  __Group photo__ (we will meet in room D-201 and move from there)
   
-  - 14:00 - 15:00:
-                   Max Neunhöffer <br>
-                   [*ArangoDB*](/gapdays2017-fall/abstracts/ArangoDB)
-  - 15:00 - 15:30: *Tea, coffee, and cake*
-  - 15:30 - 16:30:
-                   Lukas Kühne <br>
-                   [*Generating matroids using HPC-GAP and ArangoDB*](/gapdays2017-fall/abstracts/matroids)
+  - 14:00:
+           Max Neunhöffer <br>
+           [*ArangoDB*](/gapdays2017-fall/abstracts/ArangoDB)
+  - 15:00: *Tea, coffee, and cake*
+  - 15:30:
+           Lukas Kühne <br>
+           [*Generating matroids using HPC-GAP and ArangoDB*](/gapdays2017-fall/abstracts/matroids)
 
-  - 19:00:         Workshop dinner at [Trattoria Gianni & Giulia](http://trattoria-gianni-giulia.de/?page_id=35).
-		   
+  - 19:00:  Workshop dinner at [Trattoria Gianni & Giulia](http://trattoria-gianni-giulia.de/?page_id=35).
+		 
 - Friday:
-  - 10:00 - 11:00:
-                   Chris Jefferson <br>
-                   *Hooking the interpreter in GAP - profiling and debugging*
-  - 11:00 - 12:00:
-                   Markus Pfeiffer <br>
-                   [*Proving finitely presented groups to be hyperbolic in polynomial time*](/gapdays2017-fall/abstracts/FP)
+  - 10:00:
+           Chris Jefferson <br>
+           *Hooking the interpreter in GAP - profiling and debugging*
+  - 11:00:
+           Markus Pfeiffer <br>
+           [*Proving finitely presented groups to be hyperbolic in polynomial time*](/gapdays2017-fall/abstracts/FP)
 
-  - 12:00 - 13:00: *Lunch (in-house Mensa)*
+  - 12:00: *Lunch (in-house Mensa)*
   
-  - 14:00 - 15:00:
-  - 15:00 - 15:30: *Tee, coffee, and cake*
-  - 15:30 - 16:30:
+  - 14:00:
+  - 15:00: *Tee, coffee, and cake*
+  - 15:30:
 
 <!--
 The focus of the workshop will be on presenting research and development related to GAP. __Please submit proposals__ (e.g., topics you want to see covered, or title of a talk you could give) to the organisers (<gapdays2017-fall@gapdays.de>).
