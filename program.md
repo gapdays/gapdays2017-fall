@@ -59,7 +59,10 @@ title: Program
 
   - 12:00: *Lunch (in-house Mensa)*
   
-  - 14:00:
+  - 14:00: Frank Lübeck <br>
+           *Demo functionality in the new release of Browse*
+  - 14:30: Thomas Breuer <br>
+           *Browsing through the ATLAS of Finite Groups in GAP*
   - 15:00: *Tee, coffee, and cake*
   - 15:30:
 
