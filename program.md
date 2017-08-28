@@ -21,7 +21,7 @@ title: Program
   
   - 14:00:
            Max Horn <br>
-           *MatrixObj-Projekt*
+           *The MatrixObj project: better linear algebra for GAP*
   - 15:00: *Tea, coffee, and cake*
   - 15:30:
            Chris Jefferson <br>
