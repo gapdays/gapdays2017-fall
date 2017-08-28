@@ -20,7 +20,7 @@ title: Program
   - 12:00: *Lunch (in-house Mensa)*
   
   - 14:00:
-           Max Horn <br>
+           Thomas Breuer & Max Horn <br>
            *The MatrixObj project: better linear algebra for GAP*
   - 15:00: *Tea, coffee, and cake*
   - 15:30:
