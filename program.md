@@ -25,7 +25,7 @@ title: Program
   - 15:00: *Tea, coffee, and cake*
   - 15:30:
            Chris Jefferson <br>
-           *Towards a unified framework for search in permutation group*
+           [*Towards a unified framework for search in permutation group*](/gapdays2017-fall/abstracts/permutations)
 
 - Thursday:
   - 10:00:
@@ -52,7 +52,7 @@ title: Program
 - Friday:
   - 10:00:
            Chris Jefferson <br>
-           *Hooking the interpreter in GAP - profiling and debugging*
+           [*Hooking the interpreter in GAP - profiling and debugging*](/gapdays2017-fall/abstracts/profiling)
   - 11:00:
            Markus Pfeiffer <br>
            [*Proving finitely presented groups to be hyperbolic in polynomial time*](/gapdays2017-fall/abstracts/FP)
