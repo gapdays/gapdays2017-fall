@@ -12,16 +12,18 @@ title: Program
   - 10:00: *Opening*
   - 10:15:
            Pedro A. García-Sánchez and Manuel Delgado <br>
-           [*The GAP package* numericalsgps](/gapdays2017-fall/abstracts/numericalsgps)
+           [*The GAP package* numericalsgps](/gapdays2017-fall/abstracts/numericalsgps) <br>
+           [(Slides)](/gapdays2017-fall/slides/slides-numericalsgps-siegen.html)
   - 11:00:
-            Markus Baumeister <br>
+           Markus Baumeister <br>
            [*Simplicial surfaces in GAP*](/gapdays2017-fall/abstracts/SimplicialSurfaces.pdf)
 
   - 12:00: *Lunch (in-house Mensa)*
   
   - 14:00:
            Thomas Breuer & Max Horn <br>
-           *The MatrixObj project: better linear algebra for GAP*
+           *The MatrixObj project: better linear algebra for GAP* <br>
+           [(Thomas' slides)](/gapdays2017-fall/slides/Breuer-matrixobj.pdf)
   - 15:00: *Tea, coffee, and cake*
   - 15:30:
            Chris Jefferson <br>
