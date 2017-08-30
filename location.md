@@ -24,3 +24,4 @@ The offer is valid until the end of July or until all 15 rooms are booked.
 You will have to book your accommodation yourself. Please
 mention <Q>Gap Days 2017</Q> to get the reduced rate.
 
+[Restaurants in Siegen](/gapdays2017-fall/restaurants)
