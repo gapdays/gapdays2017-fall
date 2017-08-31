@@ -24,7 +24,7 @@ title: Program
            Thomas Breuer & Max Horn <br>
            *The MatrixObj project: better linear algebra for GAP* <br>
            [(Max' slides)](/gapdays2017-fall/slides/slides-Horn-MatrixObj.html)
-           [(Thomas' slides)](/gapdays2017-fall/slides/Breuer-matrixobj.pdf)
+           [(Thomas' slides)](/gapdays2017-fall/slides/slides-Breuer-matrixobj.pdf)
   - 15:00: *Tea, coffee, and cake*
   - 15:30:
            Chris Jefferson <br>
