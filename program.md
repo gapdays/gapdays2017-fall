@@ -34,6 +34,7 @@ title: Program
   - 10:00:
            Sebastian Gutsche <br>
            [*Constructive Category Theory and Applications to Algebraic Geometry*](/gapdays2017-fall/abstracts/CAP)
+           [(Slides)](/gapdays2017-fall/slides/slides-CAP.pdf)
   - 11:00:
             Markus Pfeiffer <br>
            [*Update on all things Jupyter, LibGAP, Racket-GAP*](/gapdays2017-fall/abstracts/Jupyter)
