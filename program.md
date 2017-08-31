@@ -39,6 +39,7 @@ title: Program
   
   - 14:00: Max Neunhöffer <br>
            [*ArangoDB*](/gapdays2017-fall/abstracts/ArangoDB)
+           [(Slides)](/gapdays2017-fall/slides/ArangoDB.pdf)
   - 15:00: *Tea, coffee, and cake*
   - 15:30: Lukas Kühne <br>
            [*Generating matroids using HPC-GAP and ArangoDB*](/gapdays2017-fall/abstracts/matroids)
