@@ -11,7 +11,8 @@ title: Program
 - Wednesday:
   - 10:00: *Opening*
   - 10:15: Pedro A. García-Sánchez and Manuel Delgado <br>
-           [*The GAP package* numericalsgps](/gapdays2017-fall/abstracts/numericalsgps) <br>
+           [*The GAP package* numericalsgps](/gapdays2017-fall/abstracts/numericalsgps)
+           <br>
            [(Slides)](/gapdays2017-fall/slides/slides-numericalsgps-siegen.html)
   - 11:00: Markus Baumeister <br>
            [*Simplicial surfaces in GAP*](/gapdays2017-fall/abstracts/SimplicialSurfaces.pdf)
@@ -19,7 +20,8 @@ title: Program
   - 12:00: *Lunch (in-house Mensa)*
   
   - 14:00: Thomas Breuer & Max Horn <br>
-           *The MatrixObj project: better linear algebra for GAP* <br>
+           *The MatrixObj project: better linear algebra for GAP*
+           <br>
            [(Max' slides)](/gapdays2017-fall/slides/slides-Horn-MatrixObj.html)
            [(Thomas' slides)](/gapdays2017-fall/slides/slides-Breuer-matrixobj.pdf)
   - 15:00: *Tea, coffee, and cake*
@@ -29,6 +31,7 @@ title: Program
 - Thursday:
   - 10:00: Sebastian Gutsche <br>
            [*Constructive Category Theory and Applications to Algebraic Geometry*](/gapdays2017-fall/abstracts/CAP)
+           <br>
            [(Slides)](/gapdays2017-fall/slides/slides-CAP.pdf)
   - 11:00: Markus Pfeiffer <br>
            [*Update on all things Jupyter, LibGAP, Racket-GAP*](/gapdays2017-fall/abstracts/Jupyter)
@@ -39,6 +42,7 @@ title: Program
   
   - 14:00: Max Neunhöffer <br>
            [*ArangoDB*](/gapdays2017-fall/abstracts/ArangoDB)
+           <br>
            [(Slides)](/gapdays2017-fall/slides/ArangoDB.pdf)
   - 15:00: *Tea, coffee, and cake*
   - 15:30: Lukas Kühne <br>
