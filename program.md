@@ -47,6 +47,8 @@ title: Program
   - 15:00: *Tea, coffee, and cake*
   - 15:30: Lukas Kühne <br>
            [*Generating matroids using HPC-GAP and ArangoDB*](/gapdays2017-fall/abstracts/matroids)
+           <br>
+           [(Slides)](/gapdays2017-fall/slides/slides-Kuehne-matroids.pdf)
 
   - 19:00: Workshop dinner at [Trattoria Gianni & Giulia](http://trattoria-gianni-giulia.de/?page_id=35).
 		 
