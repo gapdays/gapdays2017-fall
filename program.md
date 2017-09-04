@@ -112,5 +112,9 @@ If you have any suggestions for the code sprint, please let the organisers know 
 
 #### Please also look at [the Wiki for details](https://github.com/gapdays/gapdays2017-fall/wiki). Feel free to add pages there relevant to the workshop or code sprint.
 
+#### Tasks
+
+There is now an editable list of tasks where you can see how to help and register your progress. Please contact us for the link.
+
 #### Weekend
 There are currently no specific plans for the weekend (September 2nd & 3rd). For those staying over the weekend, access to the university will be available.
