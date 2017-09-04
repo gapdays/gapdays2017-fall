@@ -110,7 +110,7 @@ Some ideas for secondary topics (may or may not be worked on):
 If you have any suggestions for the code sprint, please let the organisers know or [create an issue on GitHub](https://github.com/gap-system/gap/issues) using the label "gapdays2017-fall".
 
 
-#### Please also look at [the Wiki for details](https://github.com/gapdays/gapdays2017-fall/wiki). Feel free to add pages there relevant to the workshop or code spring.
+#### Please also look at [the Wiki for details](https://github.com/gapdays/gapdays2017-fall/wiki). Feel free to add pages there relevant to the workshop or code sprint.
 
 #### Weekend
 There are currently no specific plans for the weekend (September 2nd & 3rd). For those staying over the weekend, access to the university will be available.
