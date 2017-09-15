@@ -5,6 +5,8 @@ title: Participants
 
 [![Group photo]({{ site.baseurl }}/photos/groupphoto-gapdays2017-fall-workshop_thumb.jpg "Group photo")]({{ site.baseurl }}/photos/groupphoto-gapdays2017-fall-workshop.jpg)
 
+[![Group photo]({{ site.baseurl }}/photos/groupphoto-gapdays2017-fall-codesprint_thumb.jpg "Group photo")]({{ site.baseurl }}/photos/groupphoto-gapdays2017-fall-codesprint.jpg)
+
 <ol>
 {% for p in site.data.participants %}
   <li>
