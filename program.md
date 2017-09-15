@@ -64,8 +64,7 @@ title: Program
            *Demo functionality in the new release of Browse*
   - 14:30: Thomas Breuer <br>
            *Browsing through the ATLAS of Finite Groups in GAP*
-  - 15:00: *Tee, coffee, and cake*
-  - 15:30:
+  - 15:30: End of the meeting
 
 <!--
 The focus of the workshop will be on presenting research and development related to GAP. __Please submit proposals__ (e.g., topics you want to see covered, or title of a talk you could give) to the organisers (<gapdays2017-fall@gapdays.de>).
