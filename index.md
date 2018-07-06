@@ -44,4 +44,4 @@ This workshop is supported by [SFB-TRR 195](https://www.computeralgebra.de/sfb/)
 
 ## Previous GAP Days
 
-Please visit <http://gapdays.de/> for a list of all GAP days.
+Please visit <https://www.gapdays.de/> for a list of all GAP days.
